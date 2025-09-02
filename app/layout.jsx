@@ -49,7 +49,7 @@ export default function RootLayout({ children }) {
       <body
         className={`${MulishFonts.variable} ${MontserratFonts.variable}  ${PoppinsFonts.variable}  `}
       >
-        <div className="daniel_tm_all_wrap">
+        <div className="tokyo_tm_all_wrap">
           <ThemeProvider attribute="class">
             {/* {pathname !== "/" ? <ThemeSwitch /> : ""} */}
             {/* End themeSwicher */}
